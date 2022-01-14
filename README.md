@@ -2,5 +2,5 @@
 ### Conducted By [Arsh Goyal](https://www.youtube.com/c/ArshGoyal)
 ## Happy Practicing!!! :smiley:
 ![--------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-- ## Company 1 : Golden Sachs [DAY 1-5]
-- ## Company 2 : Amazon [DAY 6-10]
+- ## Company 1 : [Golden Sachs](https://github.com/dhrupad17/6companies30Days/tree/main/Goldman%20Sachs) [DAY 1-5]
+- ## Company 2 : [Amazon](https://github.com/dhrupad17/6companies30Days/tree/main/Amazon)[DAY 6-10]
