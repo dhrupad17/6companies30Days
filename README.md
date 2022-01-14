@@ -3,3 +3,4 @@
 ## Happy Practicing!!! :smiley:
 ![--------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 - ## Company 1 : Golden Sachs [DAY 1-5]
+- ## Company 2 : Amazon [DAY 6-10]
