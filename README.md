@@ -6,3 +6,4 @@
 - ## Company 2 : [Amazon](https://github.com/dhrupad17/6companies30Days/tree/main/Amazon)[DAY 6-10]
 - ## Company 3 : [Microsoft](https://github.com/dhrupad17/6companies30Days/tree/main/Microsoft)[Day 11-15]
 - ## Company 4 : [Adobe](https://github.com/dhrupad17/6companies30Days/tree/main/Adobe)[Day 16-20]
+- ## Company 5 : [Intuit](https://github.com/dhrupad17/6companies30Days/tree/main/Intuit)[Day 21-25]
